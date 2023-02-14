@@ -1,3 +1,5 @@
+#Maya tool to generate simple buildings based on user input
+#Diferent tabs to duplicate objects and place them over a plane and to create basic lighting
 import maya.cmds as cmds
 import random
 
